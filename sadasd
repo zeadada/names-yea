@@ -1,6 +1,5 @@
-return {
-    "Jdottootact21",
-    "WalkingCronus",
-    "ExampleUser123"
-    -- Add more usernames as needed
+{
+    3544100392, -- Replace with actual User IDs
+    4595320843
+    -- Add more User IDs as needed
 }
